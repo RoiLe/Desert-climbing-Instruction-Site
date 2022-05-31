@@ -8,4 +8,7 @@
 ** This site is still under construction.
 
 
+The site was written using HTML CSS and javascript
+and I also used directories like bootstrap.
+
 
